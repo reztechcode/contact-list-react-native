@@ -1,11 +1,18 @@
-# Sample Snack app
+<h1 align="center" id="title">List Kontak - React Native</h1>
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
+<p id="description">Aplikasi List Kontak Sederhana Menggunakan React Native</p>
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo cli](https://docs.expo.dev/get-started/installation/#expo-cli)).
+<h2>Project Screenshots:</h2>
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
+<img src="https://res.cloudinary.com/dg6ktaklq/image/upload/v1719726216/Screenshot_2024-06-30_124240_upvodl.png" alt="project-screenshot" width="200" height="400/">
 
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.dev/c/expo-dev-tools/61) or [Discord](https://chat.expo.dev/).
+<img src="https://res.cloudinary.com/dg6ktaklq/image/upload/v1719726216/Screenshot_2024-06-30_124257_wijrzq.png" alt="project-screenshot" width="320" height="400/">
 
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+  
+  
+<h2>💻 Built with</h2>
+
+Technologies used in the project:
+
+*   react
+*   react-native
